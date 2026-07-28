@@ -1,6 +1,6 @@
 # AutoGPT Account Console - GPT 免费号注册机
 
-> 全自动 ChatGPT 账号批量注册工具，无需手动操作，一键生成可用账号。
+> 全自动 ChatGPT、Codex 账号批量注册工具，无需手动操作，一键生成可用账号。
 
 ## 功能特性
 
